@@ -50,3 +50,5 @@ if __name__ == "__main__":
     run_sync()
     run_threading()
     asyncio.run(run_asyncio())
+    print("Commit test: thay đổi nhỏ để thực hành Git")
+
